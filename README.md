@@ -1,1 +1,1 @@
-# Bellabeat-Fitness-Trackers-EDA
+Bellabeat is a US based firm of wearable computers for women. Here I did an exploratory analysis on a dataset containing data from 30 participants, having recorded data of their heart rate, steps taken per day, BMI, sleep duration etc. for a span of 1 month. The whole analysis is performed using R programming language.
